@@ -63,7 +63,7 @@ data = pd.read_csv('data/BTC/binance_BTC_USDT_1h_*.csv')
 ## 📞 Contact
 
 - **GitHub**: [@yusufcmg](https://github.com/yusufcmg)
-- **Email**: yusufdev.bunkhouse251@simplelogin.com
+- **Email**: yusufdev.submitter519@simplelogin.com
 
 ## 📄 License
 
